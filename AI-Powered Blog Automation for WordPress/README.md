@@ -71,5 +71,5 @@ The final goal is to consistently produce high-quality, readable, SEO-optimized 
 ## 📎 Repo & Credits
 
 - Also checkout our Discord bot trigger: [n8n_discord_trigger_bot](https://github.com/Jharilela/n8n_discord_trigger_bot)
-- Creator: [Jay (Emp₀)](https://twitter.com/jharilela)
+
 - Automation tool: [n8n](https://n8n.partnerlinks.io/emp0)
