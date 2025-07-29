@@ -22,6 +22,9 @@ Welcome! Use the links below to explore each automation workflow in this reposit
 - [Turn Any Prompt Into a Chart and Upload It to WordPress](Turn%20Any%20Prompt%20Into%20a%20Chart%20and%20Upload%20It%20to%20WordPress/README.md)  
   *Generates charts from prompts and publishes them on WordPress.*
 
+- [n8n Discord Trigger Bot](n8n_discord_trigger_bot-main/README.md)  
+  *A public, read-only Discord bot that forwards messages, reactions, and thread events to n8n, Zapier, Make.com, or custom webhooks for powerful automations.*
+
 ---
 
 Each folder contains its own README and workflow files. Click a link above to view details and setup instructions for that workflow.
